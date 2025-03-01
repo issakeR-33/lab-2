@@ -26,28 +26,6 @@ public:
 
 };
 
-class Reserve_Tickets {
-  private:
-	  string nameClient;
-	  string nameMovie;
-	  string dateMovie;
-	  string timeMovie;
-	  int numberRow;
-	  int numberSit;
-public:
-	Reserve_Tickets() : nameClient(""), nameMovie(""), dateMovie(""), timeMovie(""), numberRow(0), numberSit(0) {};\
-	Reserve_Tickets(string nC) : Reserve_Tickets(nC, "", "", "", 0, 0) {};
-	Reserve_Tickets(string nC, string m) : Reserve_Tickets(nC, m, "", "", 0, 0) {};
-	Reserve_Tickets(string nC, string m, string d) : Reserve_Tickets(nC, m, d, "", 0, 0) {};
-	Reserve_Tickets(string nC, string m, string d,string nM) : Reserve_Tickets(nC, m, d, nM, 0, 0) {};
-	Reserve_Tickets(string nC, string m, string d, string nM, int R) : Reserve_Tickets(nC, m, d, nM, R, 0) {};
-	Reserve_Tickets(string nC, string m, string d, string nM, int R, int S) : nameClient(nC), nameMovie(m), dateMovie(d), timeMovie(nM), numberRow(R), numberSit(S) {};
-
-
-
-	
-
-};
 
 int main() {
 	Movie_Session test("Fight Club", "21:00", "29.02.2025", 50);

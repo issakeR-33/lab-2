@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\IT\\labs\\lab-2\\lab-2\\",
+  "WorkspaceRootPath": "F:\\IT\\labs\\lab-2\\lab-22\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2EC587C-3017-4B37-B461-FFB38CD94D01}|lab-2\\lab-2.vcxproj|F:\\IT\\labs\\lab-2\\lab-2\\lab-2\\lab-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F2EC587C-3017-4B37-B461-FFB38CD94D01}|lab-2\\lab-2.vcxproj|F:\\IT\\labs\\lab-2\\lab-22\\lab-2\\lab-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F2EC587C-3017-4B37-B461-FFB38CD94D01}|lab-2\\lab-2.vcxproj|solutionrelative:lab-2\\lab-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -27,16 +27,15 @@
               "ToolTip": "C:\\Users\\Vanya\\Downloads\\Telegram Desktop\\main.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T16:34:22.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T16:34:22.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab-2.cpp",
-              "DocumentMoniker": "F:\\IT\\labs\\lab-2\\lab-2\\lab-2\\lab-2.cpp",
+              "DocumentMoniker": "F:\\IT\\labs\\lab-2\\lab-22\\lab-2\\lab-2.cpp",
               "RelativeDocumentMoniker": "lab-2\\lab-2.cpp",
-              "ToolTip": "F:\\IT\\labs\\lab-2\\lab-2\\lab-2\\lab-2.cpp",
+              "ToolTip": "F:\\IT\\labs\\lab-2\\lab-22\\lab-2\\lab-2.cpp",
               "RelativeToolTip": "lab-2\\lab-2.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAkwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
